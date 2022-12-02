@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Roman</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>TREE_LEFT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="лікування септичного шоку" x="830" y="78" width="211" height="45" text_b="12, 12, 187, 21">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="4" text="антибіот" x="790" y="133" width="65" height="25" text_b="2, 2, 61, 21" />
+            <node id="3" text="КК фунцій органів і систем організму" x="600" y="168" width="255" height="25" text_b="2, 2, 251, 21" fold_btn_b="855, 174, 13, 13">
+              <nodes>
+                <node id="10" text="інше" x="607" y="203" width="40" height="25" text_b="2, 2, 36, 21" fold_btn_b="647, 209, 13, 13">
+                  <nodes>
+                    <node id="11" text="перфузія тканин, мікроциркуляція" x="311" y="238" width="236" height="25" text_b="2, 2, 232, 21" fold_btn_b="547, 244, 13, 13">
+                      <nodes>
+                        <node id="15" text="критерії" x="287" y="273" width="62" height="25" text_b="2, 2, 58, 21" fold_btn_b="349, 279, 13, 13">
+                          <nodes>
+                            <node id="16" text="ліквідація мет ацитозу" x="81" y="308" width="157" height="25" text_b="2, 2, 153, 21" />
+                            <node id="17" text="діурез" x="188" y="343" width="50" height="25" text_b="2, 2, 46, 21" />
+                            <node id="18" text="ат" x="216" y="378" width="22" height="25" text_b="2, 2, 18, 21" />
+                          </nodes>
+                          <lines>
+                            <line target="16" begin_side="Bottom" end_side="Right" begin_rect="287, 273, 62, 25" end_rect="81, 308, 157, 25" />
+                            <line target="17" begin_side="Bottom" end_side="Right" begin_rect="287, 273, 62, 25" end_rect="188, 343, 50, 25" />
+                            <line target="18" begin_side="Bottom" end_side="Right" begin_rect="287, 273, 62, 25" end_rect="216, 378, 22, 25" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="15" begin_side="Bottom" end_side="Right" begin_rect="311, 238, 236, 25" end_rect="287, 273, 75, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="11" begin_side="Bottom" end_side="Right" begin_rect="607, 203, 40, 25" end_rect="311, 238, 249, 25" />
+                  </lines>
+                </node>
+                <node id="5" text="кров" x="606" y="413" width="41" height="25" text_b="2, 2, 37, 21" fold_btn_b="647, 419, 13, 13">
+                  <nodes>
+                    <node id="14" text="як можна раніше відновлення ОЦК" x="303" y="448" width="243" height="25" text_b="2, 2, 239, 21" />
+                    <node id="6" text="гематокрит" x="462" y="483" width="84" height="25" text_b="2, 2, 80, 21" />
+                    <node id="7" text="гемаглобін" x="465" y="518" width="81" height="25" text_b="2, 2, 77, 21" />
+                  </nodes>
+                  <lines>
+                    <line target="14" begin_side="Bottom" end_side="Right" begin_rect="606, 413, 41, 25" end_rect="303, 448, 243, 25" />
+                    <line target="6" begin_side="Bottom" end_side="Right" begin_rect="606, 413, 41, 25" end_rect="462, 483, 84, 25" />
+                    <line target="7" begin_side="Bottom" end_side="Right" begin_rect="606, 413, 41, 25" end_rect="465, 518, 81, 25" />
+                  </lines>
+                </node>
+                <node id="8" text="нирки" x="597" y="553" width="50" height="25" text_b="2, 2, 46, 21" fold_btn_b="647, 559, 13, 13">
+                  <nodes>
+                    <node id="9" text="діурез" x="492" y="588" width="50" height="25" text_b="2, 2, 46, 21" />
+                  </nodes>
+                  <lines>
+                    <line target="9" begin_side="Bottom" end_side="Right" begin_rect="597, 553, 50, 25" end_rect="492, 588, 50, 25" />
+                  </lines>
+                </node>
+                <node id="12" text="тс" x="625" y="623" width="22" height="25" text_b="2, 2, 18, 21" fold_btn_b="647, 629, 13, 13">
+                  <nodes>
+                    <node id="13" text="КК язв через ліки і сепсис" x="377" y="658" width="179" height="25" text_b="2, 2, 175, 21" />
+                  </nodes>
+                  <lines>
+                    <line target="13" begin_side="Bottom" end_side="Right" begin_rect="625, 623, 22, 25" end_rect="377, 658, 179, 25" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="10" begin_side="Bottom" end_side="Right" begin_rect="600, 168, 255, 25" end_rect="607, 203, 53, 25" />
+                <line target="5" begin_side="Bottom" end_side="Right" begin_rect="600, 168, 255, 25" end_rect="606, 413, 54, 25" />
+                <line target="8" begin_side="Bottom" end_side="Right" begin_rect="600, 168, 255, 25" end_rect="597, 553, 63, 25" />
+                <line target="12" begin_side="Bottom" end_side="Right" begin_rect="600, 168, 255, 25" end_rect="625, 623, 35, 25" />
+              </lines>
+            </node>
+            <node id="2" text="ліквідація причин" x="728" y="693" width="127" height="25" text_b="2, 2, 123, 21" />
+          </nodes>
+          <lines>
+            <line target="4" begin_side="Bottom" end_side="Right" begin_rect="830, 78, 211, 45" end_rect="790, 133, 65, 25" />
+            <line target="3" begin_side="Bottom" end_side="Right" begin_rect="830, 78, 211, 45" end_rect="600, 168, 268, 25" />
+            <line target="2" begin_side="Bottom" end_side="Right" begin_rect="830, 78, 211, 45" end_rect="728, 693, 127, 25" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

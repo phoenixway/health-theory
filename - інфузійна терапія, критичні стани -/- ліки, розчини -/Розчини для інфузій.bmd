@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Roman</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>TREE_RIGHT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="Види розчинів для інфузії" x="92" y="195" width="239" height="46" text_b="12, 12, 215, 22">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="1" text="Глюкоза" x="291" y="251" width="80" height="26" text_b="2, 2, 76, 22" fold_btn_b="278, 258, 13, 13">
+              <nodes>
+                <node id="2" text="5 %" x="411" y="287" width="40" height="26" text_b="2, 2, 36, 22" fold_btn_b="398, 294, 13, 13">
+                  <nodes>
+                    <node id="3" text="1 мл - 50 мг " x="511" y="323" width="106" height="26" text_b="2, 2, 102, 22" />
+                    <node id="4" text="20 мл - 1 г" x="511" y="359" width="93" height="26" text_b="2, 2, 89, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="3" begin_side="Bottom" end_side="Left" begin_rect="411, 287, 40, 26" end_rect="511, 323, 106, 26" />
+                    <line target="4" begin_side="Bottom" end_side="Left" begin_rect="411, 287, 40, 26" end_rect="511, 359, 93, 26" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="2" begin_side="Bottom" end_side="Left" begin_rect="291, 251, 80, 26" end_rect="398, 287, 53, 26" />
+              </lines>
+            </node>
+            <node id="2" text="Хартмана" x="291" y="395" width="91" height="26" text_b="2, 2, 87, 22" fold_btn_b="278, 402, 13, 13">
+              <nodes>
+                <node id="9" text="Призначення" x="416" y="431" width="119" height="26" text_b="2, 2, 115, 22" fold_btn_b="403, 438, 13, 13">
+                  <nodes>
+                    <node id="11" text="Корекція легкого метаболічного ацидозу" x="555" y="467" width="345" height="26" text_b="2, 2, 341, 22" />
+                    <node id="10" text="Відновлення втрат елетролітів та МІЖКЛІТИННОЇ рідини" x="555" y="503" width="476" height="26" text_b="2, 2, 472, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="11" begin_side="Bottom" end_side="Left" begin_rect="416, 431, 119, 26" end_rect="555, 467, 345, 26" />
+                    <line target="10" begin_side="Bottom" end_side="Left" begin_rect="416, 431, 119, 26" end_rect="555, 503, 476, 26" />
+                  </lines>
+                </node>
+                <node id="3" text="Не застосовути" x="416" y="539" width="137" height="26" folded="True" text_b="2, 2, 133, 22" fold_btn_b="403, 546, 13, 13">
+                  <nodes>
+                    <node id="4" text="Не используется в качестве кровезаменителя из-за быстрого перехода (в течение 30 минут) в ткани организма." x="9924" y="6092" width="933" height="26" text_b="2, 2, 929, 22" />
+                    <node id="7" text="Не рекомендуется применять при значителном дефиците натрия, калия, кальция." x="10171" y="6128" width="686" height="26" text_b="2, 2, 682, 22" />
+                    <node id="8" text="Следует применять с осторожностью при почечной, сердечной недостаточности, дыхательной недостаточности, острая дегидратация, заболевания печени и почек, гипопротеинемия, одновременное лечение кортикотропином и глюкокортикостероидами, пожилой и ранний детский возраст." x="8452" y="6164" width="2405" height="26" text_b="2, 2, 2401, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="5" text="Коли застосовувати" x="416" y="575" width="174" height="26" folded="True" text_b="2, 2, 170, 22" fold_btn_b="403, 582, 13, 13">
+                  <nodes>
+                    <node id="6" text="Применяется с целью восполнения межклеточной жидкости и электролитов организма при тяжелой длительной рвоте, диарее, перитоните, обширных ожогах, тяжелых инфекций; во время и после хирургических вмешательств; оказании первой помощи при травмах, шоке, кровопотере." x="15318" y="7756" width="2375" height="26" text_b="2, 2, 2371, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines>
+                <line target="9" begin_side="Bottom" end_side="Left" begin_rect="291, 395, 91, 26" end_rect="403, 431, 132, 26" />
+                <line target="3" begin_side="Bottom" end_side="Left" begin_rect="291, 395, 91, 26" end_rect="403, 539, 150, 26" />
+                <line target="5" begin_side="Bottom" end_side="Left" begin_rect="291, 395, 91, 26" end_rect="403, 575, 187, 26" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="1" begin_side="Bottom" end_side="Left" begin_rect="92, 195, 239, 46" end_rect="278, 251, 93, 26" />
+            <line target="2" begin_side="Bottom" end_side="Left" begin_rect="92, 195, 239, 46" end_rect="278, 395, 104, 26" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Roman</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">False</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>TREE_RIGHT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="Види дегідратації" x="344" y="267" width="172" height="46" text_b="12, 12, 148, 22">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="20" text="гіпертонічна (клітинна)" x="510" y="323" width="196" height="26" text_b="2, 2, 192, 22" fold_btn_b="497, 330, 13, 13">
+              <nodes>
+                <node id="21" text="суть" x="688" y="359" width="45" height="26" folded="True" text_b="2, 2, 41, 22" fold_btn_b="675, 366, 13, 13">
+                  <nodes>
+                    <node id="23" text="тканинна гіпертонічність (надлишок електролітів=солей) = підвищена осмолярність тканин" x="9336" y="13141" width="753" height="26" text_b="2, 2, 749, 22" />
+                    <node id="22" text="дегідратація клітин" x="9336" y="13177" width="167" height="26" text_b="2, 2, 163, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="24" text="причини" x="688" y="395" width="78" height="26" folded="True" text_b="2, 2, 74, 22" fold_btn_b="675, 402, 13, 13">
+                  <nodes>
+                    <node id="25" text="недостаточное потребление воды (чаще всего, люди без сознания)" x="6501" y="6904" width="564" height="26" text_b="2, 2, 560, 22" />
+                    <node id="26" text="потеря воды через легкие (гипервентиляция) " x="6501" y="6940" width="382" height="26" text_b="2, 2, 378, 22" />
+                    <node id="27" text="втрата гипотонических жидкостей через " x="6501" y="6976" width="342" height="26" folded="True" text_b="2, 2, 338, 22" fold_btn_b="6488, 6983, 13, 13">
+                      <nodes>
+                        <node id="28" text="кожу, " x="29792" y="28225" width="55" height="26" text_b="2, 2, 51, 22" />
+                        <node id="29" text="желудочно-кишечный тракт " x="29609" y="28261" width="238" height="26" text_b="2, 2, 234, 22" />
+                        <node id="30" text="почки (несахарный диабет, осмотический диурез, вызванный глюкозурией)." x="29212" y="28297" width="635" height="26" text_b="2, 2, 631, 22" />
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="31" text="симптоми" x="688" y="431" width="91" height="26" folded="True" text_b="2, 2, 87, 22" fold_btn_b="675, 438, 13, 13">
+                  <nodes>
+                    <node id="32" text="залежать від" x="1190" y="751" width="116" height="26" folded="True" text_b="2, 2, 112, 22" fold_btn_b="1177, 758, 13, 13">
+                      <nodes>
+                        <node id="33" text="степени обезвоживания клеток ЦНС " x="1788" y="1247" width="311" height="26" text_b="2, 2, 307, 22" />
+                        <node id="34" text="тяжести гиповолемии" x="1788" y="1283" width="188" height="26" text_b="2, 2, 184, 22" />
+                        <node id="35" text="ключевое значение имеет время, в течение которого произошло обезвоживание" x="1788" y="1319" width="676" height="26" text_b="2, 2, 672, 22" fold_btn_b="1775, 1326, 13, 13">
+                          <nodes>
+                            <node id="36" text="Симптомы со стороны ЦНС менее выражены в случае медленно развивающегося гипертонического обезвоживания." x="2206" y="1355" width="974" height="26" text_b="2, 2, 970, 22" />
+                          </nodes>
+                          <lines>
+                            <line target="36" begin_side="Bottom" end_side="Left" begin_rect="1788, 1319, 676, 26" end_rect="2206, 1355, 974, 26" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="37" text="симптоми обезвоживания " x="1190" y="787" width="223" height="26" folded="True" text_b="2, 2, 219, 22" fold_btn_b="1177, 794, 13, 13">
+                      <nodes>
+                        <node id="38" text="сухость слизистых оболочек и кожи" x="6306" y="6676" width="303" height="26" text_b="2, 2, 299, 22" />
+                        <node id="39" text="гипотензия" x="6306" y="6712" width="102" height="26" text_b="2, 2, 98, 22" />
+                        <node id="40" text="тахикардия" x="6306" y="6748" width="104" height="26" text_b="2, 2, 100, 22" />
+                        <node id="41" text="олигурия" x="6306" y="6784" width="84" height="26" text_b="2, 2, 80, 22" />
+                      </nodes>
+                      <lines />
+                    </node>
+                    <node id="42" text="симптомы гипертоничности (сильное чувство жажды) " x="1190" y="823" width="450" height="26" text_b="2, 2, 446, 22" />
+                    <node id="46" text="нарушения со стороны ЦНС (спутанность сознания, галлюцинации, гипертермия)." x="1190" y="859" width="684" height="26" text_b="2, 2, 680, 22" />
+                    <node id="48" text="1" x="1190" y="895" width="20" height="26" text_b="2, 2, 16, 22" fold_btn_b="1177, 902, 13, 13">
+                      <nodes>
+                        <node id="49" text="Жажда. Слизистые очень сухие," x="1280" y="931" width="275" height="26" text_b="2, 2, 271, 22" />
+                        <node id="50" text="гиперимированны. Кожа сухая," x="1280" y="967" width="267" height="26" text_b="2, 2, 263, 22" />
+                        <node id="51" text="теплая, м.б. мраморность, но" x="1280" y="1003" width="252" height="26" text_b="2, 2, 248, 22" />
+                        <node id="52" text="тургор и эластичность кожи" x="1280" y="1039" width="237" height="26" text_b="2, 2, 233, 22" />
+                        <node id="53" text="сохранены. Слабость. Беспокойство – возбуждение, далее" x="1280" y="1075" width="491" height="26" text_b="2, 2, 487, 22" />
+                        <node id="54" text="развивается апатия, сонливость," x="1280" y="1111" width="281" height="26" text_b="2, 2, 277, 22" />
+                        <node id="55" text="могут отмечаться судороги –" x="1280" y="1147" width="243" height="26" text_b="2, 2, 239, 22" />
+                        <node id="56" text="кома (имеют место ранние" x="1280" y="1183" width="231" height="26" text_b="2, 2, 227, 22" />
+                        <node id="57" text="нарушения со стороны ЦНС)." x="1280" y="1219" width="251" height="26" text_b="2, 2, 247, 22" />
+                        <node id="58" text="Характерна гипертермия." x="1280" y="1255" width="221" height="26" text_b="2, 2, 217, 22" />
+                        <node id="59" text="Состояние ребенка долго" x="1280" y="1291" width="221" height="26" text_b="2, 2, 217, 22" />
+                        <node id="60" text="остаётся компенсированным " x="1280" y="1327" width="259" height="26" text_b="2, 2, 255, 22" />
+                        <node id="61" text="высокая осмолярность плазмы" x="1280" y="1363" width="266" height="26" text_b="2, 2, 262, 22" />
+                        <node id="62" text=" ОЦК снижается постепенно" x="1280" y="1399" width="249" height="26" text_b="2, 2, 245, 22" />
+                        <node id="63" text=" хорошая адаптация" x="1280" y="1435" width="182" height="26" text_b="2, 2, 178, 22" />
+                        <node id="64" text="сердечно-сосудистой системы." x="1280" y="1471" width="265" height="26" text_b="2, 2, 261, 22" />
+                        <node id="65" text="• АД длительно остаётся в" x="1280" y="1507" width="228" height="26" text_b="2, 2, 224, 22" />
+                        <node id="66" text="пределах нормы. Нарушение" x="1280" y="1543" width="250" height="26" text_b="2, 2, 246, 22" />
+                        <node id="67" text="кровообращения наступает при" x="1280" y="1579" width="271" height="26" text_b="2, 2, 267, 22" />
+                        <node id="68" text="большом дефиците жидкости" x="1280" y="1615" width="254" height="26" text_b="2, 2, 250, 22" />
+                      </nodes>
+                      <lines>
+                        <line target="49" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 931, 275, 26" />
+                        <line target="50" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 967, 267, 26" />
+                        <line target="51" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1003, 252, 26" />
+                        <line target="52" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1039, 237, 26" />
+                        <line target="53" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1075, 491, 26" />
+                        <line target="54" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1111, 281, 26" />
+                        <line target="55" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1147, 243, 26" />
+                        <line target="56" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1183, 231, 26" />
+                        <line target="57" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1219, 251, 26" />
+                        <line target="58" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1255, 221, 26" />
+                        <line target="59" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1291, 221, 26" />
+                        <line target="60" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1327, 259, 26" />
+                        <line target="61" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1363, 266, 26" />
+                        <line target="62" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1399, 249, 26" />
+                        <line target="63" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1435, 182, 26" />
+                        <line target="64" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1471, 265, 26" />
+                        <line target="65" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1507, 228, 26" />
+                        <line target="66" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1543, 250, 26" />
+                        <line target="67" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1579, 271, 26" />
+                        <line target="68" begin_side="Bottom" end_side="Left" begin_rect="1190, 895, 20, 26" end_rect="1280, 1615, 254, 26" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="47" text="лікування" x="688" y="467" width="90" height="26" text_b="2, 2, 86, 22" />
+              </nodes>
+              <lines>
+                <line target="21" begin_side="Bottom" end_side="Left" begin_rect="510, 323, 196, 26" end_rect="675, 359, 58, 26" />
+                <line target="24" begin_side="Bottom" end_side="Left" begin_rect="510, 323, 196, 26" end_rect="675, 395, 91, 26" />
+                <line target="31" begin_side="Bottom" end_side="Left" begin_rect="510, 323, 196, 26" end_rect="675, 431, 104, 26" />
+                <line target="47" begin_side="Bottom" end_side="Left" begin_rect="510, 323, 196, 26" end_rect="688, 467, 90, 26" />
+              </lines>
+            </node>
+            <node id="2" text="гіпотонічна (позаклітинна)" x="510" y="503" width="225" height="26" folded="True" text_b="2, 2, 221, 22" fold_btn_b="497, 510, 13, 13">
+              <nodes>
+                <node id="13" text="суть" x="722" y="608" width="45" height="26" folded="True" text_b="2, 2, 41, 22" fold_btn_b="709, 615, 13, 13">
+                  <nodes>
+                    <node id="14" text="При гипотоническом обезвоживании в крови снижена концентрация натрия, что может привести к опасным для жизни  осложнениям." x="12697" y="17522" width="1112" height="26" text_b="2, 2, 1108, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="3" text="причини" x="722" y="644" width="78" height="26" folded="True" text_b="2, 2, 74, 22" fold_btn_b="709, 651, 13, 13">
+                  <nodes>
+                    <node id="45" text="Втрата електролітів або додавання надміру чистої води без її виведення" x="12694" y="16962" width="604" height="26" text_b="2, 2, 600, 22" />
+                    <node id="4" text="Упорная рвота;" x="12694" y="16998" width="136" height="26" text_b="2, 2, 132, 22" />
+                    <node id="5" text="обильный понос;" x="12694" y="17034" width="148" height="26" text_b="2, 2, 144, 22" />
+                    <node id="6" text="сильное потоотделение;" x="12694" y="17070" width="211" height="26" text_b="2, 2, 207, 22" />
+                    <node id="7" text="повышение уровня выделяемой мочи." x="12694" y="17106" width="324" height="26" text_b="2, 2, 320, 22" />
+                    <node id="18" text="потеря изотонических жидкостей через почки или желудочно-кишечный тракт, частично скорректированная питьем гипотонических жидкостей (напр., несладкого чая)." x="12694" y="17142" width="1393" height="26" text_b="2, 2, 1389, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+                <node id="8" text="симптоми" x="722" y="680" width="91" height="26" text_b="2, 2, 87, 22" fold_btn_b="709, 687, 13, 13">
+                  <nodes>
+                    <node id="44" text="Гіповолемія" x="847" y="716" width="108" height="26" text_b="2, 2, 104, 22" />
+                    <node id="9" text="Повышение уровня азота крови;" x="847" y="752" width="276" height="26" text_b="2, 2, 272, 22" />
+                    <node id="10" text="Нарушения кровообращения;" x="847" y="788" width="253" height="26" text_b="2, 2, 249, 22" />
+                    <node id="11" text="Сухость кожи, снижение уровня внутриглазного давления;" x="847" y="824" width="490" height="26" text_b="2, 2, 486, 22" />
+                    <node id="12" text="Сгущение крови." x="847" y="860" width="148" height="26" text_b="2, 2, 144, 22" />
+                    <node id="19" text="Проникновение воды из внеклеточного пространства во внутриклеточное, " x="847" y="896" width="622" height="26" text_b="2, 2, 618, 22" fold_btn_b="834, 903, 13, 13">
+                      <style>
+                        <text_align>Left</text_align>
+                      </style>
+                      <nodes>
+                        <node id="43" text="что приводит к отеку клеток (особенно ЦНС) и дальнейшему уменьшению внеклеточного водного пространства (усилению гиповолемии)." x="1238" y="932" width="1143" height="26" text_b="2, 2, 1139, 22" />
+                      </nodes>
+                      <lines>
+                        <line target="43" begin_side="Bottom" end_side="Left" begin_rect="847, 896, 622, 26" end_rect="1238, 932, 1143, 26" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="44" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="847, 716, 108, 26" />
+                    <line target="9" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="847, 752, 276, 26" />
+                    <line target="10" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="847, 788, 253, 26" />
+                    <line target="11" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="847, 824, 490, 26" />
+                    <line target="12" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="847, 860, 148, 26" />
+                    <line target="19" begin_side="Bottom" end_side="Left" begin_rect="722, 680, 91, 26" end_rect="834, 896, 635, 26" />
+                  </lines>
+                </node>
+                <node id="15" text="лікування" x="722" y="968" width="90" height="26" folded="True" text_b="2, 2, 86, 22" fold_btn_b="709, 975, 13, 13">
+                  <nodes>
+                    <node id="16" text="Лечение болезней, послуживших причиной обезвоживания;" x="10458" y="14671" width="503" height="26" text_b="2, 2, 499, 22" />
+                    <node id="17" text="Внутривенное введение гипертонических растворов (реополиглюкин, полиглюкин, желатиноль)." x="10458" y="14707" width="802" height="26" text_b="2, 2, 798, 22" />
+                  </nodes>
+                  <lines />
+                </node>
+              </nodes>
+              <lines />
+            </node>
+          </nodes>
+          <lines>
+            <line target="20" begin_side="Bottom" end_side="Left" begin_rect="344, 267, 172, 46" end_rect="497, 323, 209, 26" />
+            <line target="2" begin_side="Bottom" end_side="Left" begin_rect="344, 267, 172, 46" end_rect="497, 503, 238, 26" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

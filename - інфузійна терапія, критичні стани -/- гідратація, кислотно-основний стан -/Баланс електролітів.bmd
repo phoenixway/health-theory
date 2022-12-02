@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="2.0.7.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org/download-->
+  <information>
+    <Author />
+    <Company />
+    <Version>1.0</Version>
+    <Description />
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts>
+    <chart name="New Chart" type="MindMap">
+      <layout>TREE_RIGHT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+      </style>
+      <nodes>
+        <node text="Center Topic">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node text="натрій">
+              <nodes>
+                <node text="+">
+                  <nodes>
+                    <node text="сопровождается перераспределением жидкости из внутриклеточного во внеклеточный сектор" />
+                    <node text="дегидратации клеток" />
+                    <node text="гіпокалімія" />
+                    <node text="можливо, гіпергідратація" />
+                    <node text="гіперволемія">
+                      <nodes>
+                        <node text="як наслідок - серцева недостатність" />
+                      </nodes>
+                    </node>
+                    <node text="снижению осмотического давления" />
+                    <node text="меньшению объема интерстициального пространства" />
+                    <node text="гиперосмолярностью плазмы" />
+                  </nodes>
+                </node>
+                <node text="-">
+                  <nodes>
+                    <node text="сопровождается гипергидратацией клеток" />
+                    <node text="уменьшением объема циркулирующей крови." />
+                  </nodes>
+                </node>
+                <node text="MP18-777-3P2B-симптоми">
+                  <nodes>
+                    <node text="жажда" />
+                  </nodes>
+                </node>
+                <node text="лікування">
+                  <nodes>
+                    <node text="зупинка втрати води" />
+                    <node text="нейтралізація дефіциту води" />
+                    <node text="контроль оцк" />
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node text="хлор">
+              <nodes>
+                <node text="+">
+                  <nodes>
+                    <node text="развитии отечного синдрома" />
+                  </nodes>
+                </node>
+                <node text="-">
+                  <nodes>
+                    <node text="алкалоза" />
+                    <node text="дегидратация" />
+                    <node text="нарушение дыхания" />
+                    <node text="нарушение сердечной деятельности;" />
+                    <node text="возможно развитие судорожного или коматозного состояния с летальным исходом." />
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

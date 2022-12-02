@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>
+    </author>
+    <company>
+    </company>
+    <version>1.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="NewDocument" type="MindMap">
+      <remark>
+      </remark>
+      <layout>MIND_MAP</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="цитокины" x="367" y="377" width="85" height="42" text_b="12, 12, 61, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="механизм действия" x="168" y="347" width="119" height="22" folded="True" text_b="2, 2, 115, 18" fold_btn_b="154, 352, 13, 13">
+              <nodes>
+                <node id="3" text="Цитокин выделяется на поверхность клетки А и взаимодействует с рецептором находящейся рядом клетки В. Таким образом, от клетки А к клетке В передается сигнал, который запускает в клетке В дальнейшие реакции." x="429" y="745" width="1266" height="22" text_b="2, 2, 1262, 18" />
+              </nodes>
+              <lines />
+            </node>
+            <node id="4" text="назначение" x="212" y="427" width="75" height="22" text_b="2, 2, 71, 18" />
+            <node id="5" text="функции" x="532" y="387" width="58" height="22" text_b="2, 2, 54, 18" fold_btn_b="591, 392, 13, 13">
+              <nodes>
+                <node id="6" text="управление иммунитетом" x="670" y="371" width="156" height="22" text_b="2, 2, 152, 18" fold_btn_b="827, 376, 13, 13">
+                  <nodes>
+                    <node id="7" text="спец" x="906" y="355" width="35" height="22" text_b="2, 2, 31, 18" />
+                    <node id="8" text="неспец" x="906" y="387" width="49" height="22" text_b="2, 2, 45, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="7" begin_side="Right" end_side="Left" begin_rect="670, 371, 169, 22" end_rect="906, 355, 35, 22" />
+                    <line target="8" begin_side="Right" end_side="Left" begin_rect="670, 371, 169, 22" end_rect="906, 387, 49, 22" />
+                  </lines>
+                </node>
+                <node id="9" text="управление созданием и жизнью клеток крови" x="670" y="419" width="278" height="22" text_b="2, 2, 274, 18" />
+              </nodes>
+              <lines>
+                <line target="6" begin_side="Right" end_side="Left" begin_rect="532, 387, 71, 22" end_rect="670, 371, 156, 22" />
+                <line target="9" begin_side="Right" end_side="Left" begin_rect="532, 387, 71, 22" end_rect="670, 419, 278, 22" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Left" end_side="Right" begin_rect="367, 377, 85, 42" end_rect="168, 347, 119, 22" />
+            <line target="4" begin_side="Left" end_side="Right" begin_rect="367, 377, 85, 42" end_rect="212, 427, 75, 22" />
+            <line target="5" begin_side="Right" end_side="Left" begin_rect="367, 377, 85, 42" end_rect="532, 387, 58, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

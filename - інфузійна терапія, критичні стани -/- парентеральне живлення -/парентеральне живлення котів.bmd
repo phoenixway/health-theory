@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Roman</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">True</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>TREE_RIGHT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text="парентеральне живлення котів" x="20" y="20" width="284" height="46" text_b="12, 12, 260, 22">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="23" text="осмолярність" x="242" y="76" width="120" height="26" folded="True" text_b="2, 2, 116, 22" fold_btn_b="229, 83, 13, 13">
+              <nodes>
+                <node id="24" text="Необходимо учитывать осмолярность конечного продукта. Всё, что меньше 800 mosm/L можно лить в периферийный катетер без особого риска." x="32436" y="28926" width="985" height="25" text_b="2, 2, 981, 21" />
+              </nodes>
+              <lines />
+            </node>
+            <node id="2" text="загальна калорійність живлення в день" x="242" y="112" width="332" height="26" folded="True" text_b="2, 2, 328, 22" fold_btn_b="229, 119, 13, 13">
+              <nodes>
+                <node id="3" text="формули" x="27548" y="24294" width="69" height="25" text_b="2, 2, 65, 21" fold_btn_b="27535, 24300, 13, 13">
+                  <nodes>
+                    <node id="4" text="3" x="27662" y="24329" width="20" height="25" text_b="2, 2, 16, 21" fold_btn_b="27649, 24335, 13, 13">
+                      <nodes>
+                        <node id="5" text="Взрослая, нормальная" x="27752" y="24364" width="157" height="25" text_b="2, 2, 153, 21" fold_btn_b="27739, 24370, 13, 13">
+                          <nodes>
+                            <node id="6" text="70-90 ккал" x="27910" y="24399" width="79" height="25" text_b="2, 2, 75, 21" />
+                            <node id="7" text="293-377 кдж" x="27910" y="24434" width="91" height="25" text_b="2, 2, 87, 21" />
+                          </nodes>
+                          <lines>
+                            <line target="6" begin_side="Bottom" end_side="Left" begin_rect="27752, 24364, 157, 25" end_rect="27910, 24399, 79, 25" />
+                            <line target="7" begin_side="Bottom" end_side="Left" begin_rect="27752, 24364, 157, 25" end_rect="27910, 24434, 91, 25" />
+                          </lines>
+                        </node>
+                        <node id="8" text="Взрослая, неактивная:" x="27752" y="24469" width="155" height="25" text_b="2, 2, 151, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="5" begin_side="Bottom" end_side="Left" begin_rect="27662, 24329, 20, 25" end_rect="27739, 24364, 170, 25" />
+                        <line target="8" begin_side="Bottom" end_side="Left" begin_rect="27662, 24329, 20, 25" end_rect="27752, 24469, 155, 25" />
+                      </lines>
+                    </node>
+                    <node id="9" text="2" x="27662" y="24504" width="20" height="25" text_b="2, 2, 16, 21" fold_btn_b="27649, 24510, 13, 13">
+                      <nodes>
+                        <node id="10" text="Базальное потребление (kCal/день)= 30 X (Вес животного в кг) + 70 - для кошек" x="27752" y="24539" width="541" height="25" text_b="2, 2, 537, 21" fold_btn_b="27739, 24545, 13, 13">
+                          <nodes>
+                            <node id="11" text="100 ккал/1 кгмт на добу" x="28102" y="24574" width="167" height="25" text_b="2, 2, 163, 21" />
+                          </nodes>
+                          <lines>
+                            <line target="11" begin_side="Bottom" end_side="Left" begin_rect="27752, 24539, 541, 25" end_rect="28102, 24574, 167, 25" />
+                          </lines>
+                        </node>
+                        <node id="28" text="RER = 30 (BW in kg) + 70" x="27752" y="24609" width="170" height="25" text_b="2, 2, 166, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="10" begin_side="Bottom" end_side="Left" begin_rect="27662, 24504, 20, 25" end_rect="27739, 24539, 554, 25" />
+                        <line target="28" begin_side="Bottom" end_side="Left" begin_rect="27662, 24504, 20, 25" end_rect="27752, 24609, 170, 25" />
+                      </lines>
+                    </node>
+                    <node id="12" text="1" x="27662" y="24644" width="20" height="25" text_b="2, 2, 16, 21" fold_btn_b="27649, 24650, 13, 13">
+                      <nodes>
+                        <node id="13" text="E = 125 W 0,75 кКал/сут." x="27752" y="24679" width="168" height="25" text_b="2, 2, 164, 21" fold_btn_b="27739, 24685, 13, 13">
+                          <nodes>
+                            <node id="14" text="90 ккал/1 кгмт на добу" x="27916" y="24714" width="159" height="25" text_b="2, 2, 155, 21" />
+                          </nodes>
+                          <lines>
+                            <line target="14" begin_side="Bottom" end_side="Left" begin_rect="27752, 24679, 168, 25" end_rect="27916, 24714, 159, 25" />
+                          </lines>
+                        </node>
+                        <node id="15" text="E = 523 W 0,75 кДж/сут." x="27752" y="24749" width="166" height="25" text_b="2, 2, 162, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="13" begin_side="Bottom" end_side="Left" begin_rect="27662, 24644, 20, 25" end_rect="27739, 24679, 181, 25" />
+                        <line target="15" begin_side="Bottom" end_side="Left" begin_rect="27662, 24644, 20, 25" end_rect="27752, 24749, 166, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="4" begin_side="Bottom" end_side="Left" begin_rect="27548, 24294, 69, 25" end_rect="27649, 24329, 33, 25" />
+                    <line target="9" begin_side="Bottom" end_side="Left" begin_rect="27548, 24294, 69, 25" end_rect="27649, 24504, 33, 25" />
+                    <line target="12" begin_side="Bottom" end_side="Left" begin_rect="27548, 24294, 69, 25" end_rect="27649, 24644, 33, 25" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines />
+            </node>
+            <node id="16" text="склад" x="242" y="148" width="58" height="26" text_b="2, 2, 54, 22" fold_btn_b="229, 155, 13, 13">
+              <nodes>
+                <node id="17" text="білки" x="351" y="184" width="53" height="26" text_b="2, 2, 49, 22" fold_btn_b="338, 191, 13, 13">
+                  <nodes>
+                    <node id="18" text="8-15% загальної калорійності" x="457" y="220" width="250" height="26" text_b="2, 2, 246, 22" />
+                    <node id="69" text="інше джерело 25-35% для критичних паціентів" x="457" y="256" width="391" height="26" text_b="2, 2, 387, 22" />
+                    <node id="25" text="Protein Requirements" x="457" y="292" width="179" height="26" folded="True" text_b="2, 2, 175, 22" fold_btn_b="444, 299, 13, 13">
+                      <nodes>
+                        <node id="26" text="PR= RER /100 x n" x="1136" y="1093" width="120" height="25" folded="True" text_b="2, 2, 116, 21" fold_btn_b="1123, 1099, 13, 13">
+                          <nodes>
+                            <node id="27" text="n=6 для котів" x="1316" y="1173" width="98" height="25" text_b="2, 2, 94, 21" />
+                            <node id="38" text="PR= RER /100 x n" x="1316" y="1208" width="120" height="25" text_b="2, 2, 116, 21" fold_btn_b="1303, 1214, 13, 13">
+                              <nodes>
+                                <node id="27" text="n=6 для котів" x="1456" y="1243" width="98" height="25" text_b="2, 2, 94, 21" />
+                              </nodes>
+                              <lines>
+                                <line target="27" begin_side="Bottom" end_side="Left" begin_rect="1316, 1208, 120, 25" end_rect="1456, 1243, 98, 25" />
+                              </lines>
+                            </node>
+                          </nodes>
+                          <lines />
+                        </node>
+                        <node id="63" text="інша ормула для білка" x="1136" y="1128" width="157" height="25" text_b="2, 2, 153, 21">
+                          <remark>&lt;ol style="margin: 0.6em 0px; padding-left: 1.2em; color: rgb(71, 88, 101); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;li style="margin: 0.3em 0px;"&gt;В среднем кошкам в сутки 15 г белка на 1 МДж метаболической энергии (3).&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Рассчитываются на основе фактического веса и составляют 1-2 гкг, в сутки умноженный на показатель метаболической активности.&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Используется отношение белковых калорий и азота. Каждый грамм вводимого азота должен быть обеспечен 150 энергетическими кКал, таким образом, делением общего количества калорий на 150 дает величину граммов необходимого азота. Умножение полученной цифры на 6,25 дает необходимое количество белка в граммах. (4)&lt;/li&gt;&lt;/ol&gt;</remark>
+                        </node>
+                      </nodes>
+                      <lines />
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="18" begin_side="Bottom" end_side="Left" begin_rect="351, 184, 53, 26" end_rect="457, 220, 250, 26" />
+                    <line target="69" begin_side="Bottom" end_side="Left" begin_rect="351, 184, 53, 26" end_rect="457, 256, 391, 26" />
+                    <line target="25" begin_side="Bottom" end_side="Left" begin_rect="351, 184, 53, 26" end_rect="444, 292, 192, 26" />
+                  </lines>
+                </node>
+                <node id="19" text="жири" x="351" y="328" width="52" height="26" text_b="2, 2, 48, 22" fold_btn_b="338, 335, 13, 13">
+                  <nodes>
+                    <node id="20" text="30-40 % калорійності живлення" x="457" y="364" width="267" height="26" text_b="2, 2, 263, 22" />
+                    <node id="70" text="інше джерело 30-55% для критичних паціентів" x="457" y="400" width="391" height="26" text_b="2, 2, 387, 22" />
+                    <node id="36" text="Осмолярность эмульсий низкая (280-340 mosm/l)" x="457" y="436" width="414" height="26" text_b="2, 2, 410, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="20" begin_side="Bottom" end_side="Left" begin_rect="351, 328, 52, 26" end_rect="457, 364, 267, 26" />
+                    <line target="70" begin_side="Bottom" end_side="Left" begin_rect="351, 328, 52, 26" end_rect="457, 400, 391, 26" />
+                    <line target="36" begin_side="Bottom" end_side="Left" begin_rect="351, 328, 52, 26" end_rect="457, 436, 414, 26" />
+                  </lines>
+                </node>
+                <node id="21" text="глюкоза" x="351" y="472" width="77" height="26" text_b="2, 2, 73, 22" fold_btn_b="338, 479, 13, 13">
+                  <nodes>
+                    <node id="22" text="50-60% потрекбм в енергії" x="469" y="508" width="226" height="26" text_b="2, 2, 222, 22" />
+                    <node id="71" text="інше джерело 15-25% для критичних станів" x="469" y="544" width="366" height="26" text_b="2, 2, 362, 22" />
+                    <node id="35" text="Осмолярность раствора глюкозы вычисляется умножив на 55 концентрацию глюкозы в растворе (в g/dL)" x="469" y="580" width="873" height="26" text_b="2, 2, 869, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="22" begin_side="Bottom" end_side="Left" begin_rect="351, 472, 77, 26" end_rect="469, 508, 226, 26" />
+                    <line target="71" begin_side="Bottom" end_side="Left" begin_rect="351, 472, 77, 26" end_rect="469, 544, 366, 26" />
+                    <line target="35" begin_side="Bottom" end_side="Left" begin_rect="351, 472, 77, 26" end_rect="469, 580, 873, 26" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="17" begin_side="Bottom" end_side="Left" begin_rect="242, 148, 58, 26" end_rect="338, 184, 66, 26" />
+                <line target="19" begin_side="Bottom" end_side="Left" begin_rect="242, 148, 58, 26" end_rect="338, 328, 65, 26" />
+                <line target="21" begin_side="Bottom" end_side="Left" begin_rect="242, 148, 58, 26" end_rect="338, 472, 90, 26" />
+              </lines>
+            </node>
+            <node id="29" text="алгоритм" x="242" y="616" width="86" height="26" folded="True" text_b="2, 2, 82, 22" fold_btn_b="229, 623, 13, 13">
+              <nodes>
+                <node id="30" text="rer в ккал на добу" x="27369" y="24284" width="127" height="25" text_b="2, 2, 123, 21" fold_btn_b="27356, 24290, 13, 13">
+                  <nodes>
+                    <node id="37" text="RER = 30 (BW in kg) + 70" x="27512" y="24319" width="170" height="25" text_b="2, 2, 166, 21" fold_btn_b="27499, 24325, 13, 13">
+                      <nodes>
+                        <node id="41" text="100 ккал на 1 кг" x="27677" y="24354" width="114" height="25" text_b="2, 2, 110, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="41" begin_side="Bottom" end_side="Left" begin_rect="27512, 24319, 170, 25" end_rect="27677, 24354, 114, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="37" begin_side="Bottom" end_side="Left" begin_rect="27369, 24284, 127, 25" end_rect="27499, 24319, 183, 25" />
+                  </lines>
+                </node>
+                <node id="31" text="pr в г на добу" x="27369" y="24389" width="99" height="25" text_b="2, 2, 95, 21" fold_btn_b="27356, 24395, 13, 13">
+                  <nodes>
+                    <node id="40" text="PR= RER /100 x n" x="27498" y="24424" width="120" height="25" text_b="2, 2, 116, 21" fold_btn_b="27485, 24430, 13, 13">
+                      <nodes>
+                        <node id="27" text="n=6 для котів" x="27638" y="24459" width="98" height="25" text_b="2, 2, 94, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="27" begin_side="Bottom" end_side="Left" begin_rect="27498, 24424, 120, 25" end_rect="27638, 24459, 98, 25" />
+                      </lines>
+                    </node>
+                    <node id="42" text="6 г на добу" x="27498" y="24494" width="82" height="25" text_b="2, 2, 78, 21" fold_btn_b="27485, 24500, 13, 13">
+                      <nodes>
+                        <node id="43" text="дуже багато, рекомендують менше значно" x="27619" y="24529" width="294" height="25" text_b="2, 2, 290, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="43" begin_side="Bottom" end_side="Left" begin_rect="27498, 24494, 82, 25" end_rect="27619, 24529, 294, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="40" begin_side="Bottom" end_side="Left" begin_rect="27369, 24389, 99, 25" end_rect="27485, 24424, 133, 25" />
+                    <line target="42" begin_side="Bottom" end_side="Left" begin_rect="27369, 24389, 99, 25" end_rect="27485, 24494, 95, 25" />
+                  </lines>
+                </node>
+                <node id="32" text="енергетична потреба для всього крім білків в ккал на добу" x="27369" y="24564" width="400" height="25" text_b="2, 2, 396, 21" fold_btn_b="27356, 24570, 13, 13">
+                  <nodes>
+                    <node id="33" text="RER - (4 * PR)" x="27649" y="24599" width="94" height="25" text_b="2, 2, 90, 21" fold_btn_b="27636, 24605, 13, 13">
+                      <nodes>
+                        <node id="44" text="76 ккал на добу" x="27776" y="24634" width="113" height="25" text_b="2, 2, 109, 21" />
+                      </nodes>
+                      <lines>
+                        <line target="44" begin_side="Bottom" end_side="Left" begin_rect="27649, 24599, 94, 25" end_rect="27776, 24634, 113, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="33" begin_side="Bottom" end_side="Left" begin_rect="27369, 24564, 400, 25" end_rect="27636, 24599, 107, 25" />
+                  </lines>
+                </node>
+                <node id="34" text="вуглеводи і жири покривають свою частину (RER - PR) в співідношенні 50:50" x="27369" y="24669" width="518" height="25" text_b="2, 2, 514, 21" fold_btn_b="27356, 24675, 13, 13">
+                  <nodes>
+                    <node id="45" text="глюкоза" x="27708" y="24704" width="63" height="25" text_b="2, 2, 59, 21" fold_btn_b="27695, 24710, 13, 13">
+                      <nodes>
+                        <node id="46" text="38 ккал на добу" x="27819" y="24739" width="113" height="25" text_b="2, 2, 109, 21" fold_btn_b="27806, 24745, 13, 13">
+                          <nodes>
+                            <node id="47" text="223 мл 5% глюкози на добу" x="27955" y="24774" width="192" height="25" text_b="2, 2, 188, 21" fold_btn_b="27942, 24780, 13, 13">
+                              <nodes>
+                                <node id="48" text="11,1 грам на добу" x="28131" y="24809" width="126" height="25" text_b="2, 2, 122, 21" />
+                              </nodes>
+                              <lines>
+                                <line target="48" begin_side="Bottom" end_side="Left" begin_rect="27955, 24774, 192, 25" end_rect="28131, 24809, 126, 25" />
+                              </lines>
+                            </node>
+                          </nodes>
+                          <lines>
+                            <line target="47" begin_side="Bottom" end_side="Left" begin_rect="27819, 24739, 113, 25" end_rect="27942, 24774, 205, 25" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="46" begin_side="Bottom" end_side="Left" begin_rect="27708, 24704, 63, 25" end_rect="27806, 24739, 126, 25" />
+                      </lines>
+                    </node>
+                    <node id="49" text="жири" x="27708" y="24844" width="45" height="25" text_b="2, 2, 41, 21" fold_btn_b="27695, 24850, 13, 13">
+                      <nodes>
+                        <node id="50" text="38 ккал на добу" x="27810" y="24879" width="113" height="25" text_b="2, 2, 109, 21" fold_btn_b="27797, 24885, 13, 13">
+                          <nodes>
+                            <node id="51" text="19 мл ліпофундін 20%" x="27946" y="24914" width="154" height="25" text_b="2, 2, 150, 21" />
+                          </nodes>
+                          <lines>
+                            <line target="51" begin_side="Bottom" end_side="Left" begin_rect="27810, 24879, 113, 25" end_rect="27946, 24914, 154, 25" />
+                          </lines>
+                        </node>
+                      </nodes>
+                      <lines>
+                        <line target="50" begin_side="Bottom" end_side="Left" begin_rect="27708, 24844, 45, 25" end_rect="27797, 24879, 126, 25" />
+                      </lines>
+                    </node>
+                  </nodes>
+                  <lines>
+                    <line target="45" begin_side="Bottom" end_side="Left" begin_rect="27369, 24669, 518, 25" end_rect="27695, 24704, 76, 25" />
+                    <line target="49" begin_side="Bottom" end_side="Left" begin_rect="27369, 24669, 518, 25" end_rect="27695, 24844, 58, 25" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines />
+            </node>
+            <node id="52" text="алгоритм 2" x="242" y="652" width="101" height="26" folded="True" text_b="2, 2, 97, 22" fold_btn_b="229, 659, 13, 13">
+              <nodes>
+                <node id="53" text="Глюкоза 5% -325 мл на кг" x="20319" y="18408" width="179" height="25" text_b="2, 2, 175, 21" />
+                <node id="54" text="Аминостерил - 5-10 мл на кг" x="20319" y="18443" width="199" height="25" text_b="2, 2, 195, 21" />
+                <node id="55" text="Электролиты - 30 мл на кг" x="20319" y="18478" width="182" height="25" text_b="2, 2, 178, 21" />
+              </nodes>
+              <lines />
+            </node>
+            <node id="56" text="алгоритм 3" x="242" y="688" width="117" height="26" text_b="2, 2, 113, 22" remark_b="119, 0, 16, 16">
+              <remark>&lt;span style="color: rgb(28, 40, 55); font-family: arial, verdana, tahoma, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 251, 252); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"&gt;в первые сутки как правило белковое питание не проводится, однако калораж суточная потребность обеспечивается глюкозой и липидами.За исключением септических процессов, когда липиды противопоказаны.&lt;/span&gt;&lt;br style="color: rgb(28, 40, 55); font-family: arial, verdana, tahoma, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 251, 252); text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;span style="color: rgb(28, 40, 55); font-family: arial, verdana, tahoma, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 251, 252); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"&gt;на вторые сутки начинают вводить аминокислоты, причемне по процентной концентрации как бытует а по азотистому остатку, оз расчета 0.5 г на килограм далее каждый день по +0,5. по одним авторам до 2 гр по другим до 4, у кошек до 6 (почему никто мне внятно пока не объяснил.как только начинаете вводить белок на каждый грамм белка прибавляйте по 40 ккал, помимо обеспечения суточной потребности.Вот давайте считать, я уж сегодня в первом часу не буду, а завтра с удовольствием сравню с вами результаты.&lt;/span&gt;&lt;br style="color: rgb(28, 40, 55); font-family: arial, verdana, tahoma, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 251, 252); text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;span style="color: rgb(28, 40, 55); font-family: arial, verdana, tahoma, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 251, 252); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"&gt;Собака - доберман 10 мес, 15 кг веса с мегаэзофагусом и пилоростенозом. сначала голодала чтобы опустошить жкт, теперь четвертые п0о сутки после пилоропластики и пластики пищевода. ходит, на своих четырех, причем ходит а не ковыляет. завтра контрольный снимок и потом пробное поение&lt;/span&gt;</remark>
+            </node>
+            <node id="62" text="алгоритм 4" x="242" y="724" width="117" height="26" folded="True" text_b="2, 2, 113, 22" remark_b="119, 0, 16, 16" fold_btn_b="229, 731, 13, 13">
+              <remark>&lt;ul style="list-style: none; padding: 0px 0px 0px 1.2em; margin: 0.6em 0px; color: rgb(71, 88, 101); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;li style="margin: 0.3em 0px;"&gt;Энергия  - 80 кКал или 335 кДж из них&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Углеводов – 6 г – 24,6 кКал&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Жиров – 6 г – 55,8 кКал&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Аминокислот – 2,1 г&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Энергия углеводов обеспечивается раствором глюкозы 40 % - 15 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Энергия жиров обеспечивается раствором липофундина 20 % - 30 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Аминокислоты – раствором  аминостерил 10 % - 20 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Общий объем питательных растворов составляет 65 мл. Для обеспечения организма необходимым объемом жидкости следует вводить еще 45 мл раствора Хартмана.&lt;/li&gt;&lt;/ul&gt;&lt;div style="color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;Таким образом:&lt;/div&gt;&lt;ol style="margin: 0.6em 0px; padding-left: 1.2em; color: rgb(71, 88, 101); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;li style="margin: 0.3em 0px;"&gt;Раствор Хартмана 45 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Раствор глюкозы 40 % 15 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Раствор липофундин 20 % 30 мл&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Раствор аминостерил 10 % 20 мл&lt;/li&gt;&lt;/ol&gt;</remark>
+              <nodes>
+                <node id="64" text="білки" x="8073" y="8991" width="44" height="25" text_b="2, 2, 40, 21">
+                  <remark>&lt;h4 style="font-size: 1.1em; margin: 1.33em 0px 0px; color: rgb(0, 0, 0); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;Потребности в белке кошкам можно определить тремя способами&lt;/h4&gt;&lt;ol style="margin: 0.6em 0px; padding-left: 1.2em; color: rgb(71, 88, 101); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;li style="margin: 0.3em 0px;"&gt;В среднем кошкам в сутки 15 г белка на 1 МДж метаболической энергии (3).&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Рассчитываются на основе фактического веса и составляют 1-2 гкг, в сутки умноженный на показатель метаболической активности.&lt;/li&gt;&lt;li style="margin: 0.3em 0px;"&gt;Используется отношение белковых калорий и азота. Каждый грамм вводимого азота должен быть обеспечен 150 энергетическими кКал, таким образом, делением общего количества калорий на 150 дает величину граммов необходимого азота. Умножение полученной цифры на 6,25 дает необходимое количество белка в граммах. (4)&lt;/li&gt;&lt;/ol&gt;</remark>
+                </node>
+              </nodes>
+              <lines />
+            </node>
+            <node id="72" text="алгоритм 5" x="242" y="760" width="117" height="26" text_b="2, 2, 113, 22" remark_b="119, 0, 16, 16">
+              <remark>&lt;span style="color: rgb(107, 107, 107); font-family: Tahoma, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"&gt;Пока окончательные исследования, определяющие требования к питательной поддержке критически больных животных, не выполнены, могут быть даны общие рекомендации. В настоящее время принято считать, что госпитализированным собакам должна быть оказана нутритивная поддержка в размере 4-6 г белка на 100 ккал (15-25% от общих энергетических потребностей), кошкам обычно оказывается поддержка в размере 6 г (или больше) белка на 100 ккал (25-35% от общих энергетических потребностей). Пациенты с непереносимостью белков – с печеночной энцефалопатией, тяжелой азотемией – должны получать пониженное количество белка. Аналогично пациентам с гипергликемией, гиперлипидемией может потребоваться снижение количества поступающей глюкозы и жиров соответственно. Другие требования к нутриционной поддержке будут зависеть от основного заболевания пациента, клинических признаков и лабораторных исследований (9).&lt;/span&gt;&lt;br style="box-sizing: border-box; color: rgb(107, 107, 107); font-family: Tahoma, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;"&gt;</remark>
+            </node>
+            <node id="57" text="розчини" x="242" y="796" width="77" height="26" text_b="2, 2, 73, 22" fold_btn_b="229, 803, 13, 13">
+              <nodes>
+                <node id="58" text="аміностерил 10% " x="360" y="832" width="152" height="26" text_b="2, 2, 148, 22" fold_btn_b="347, 839, 13, 13">
+                  <nodes>
+                    <node id="59" text="0.1 г білку в 1 мл" x="516" y="868" width="148" height="26" text_b="2, 2, 144, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="59" begin_side="Bottom" end_side="Left" begin_rect="360, 832, 152, 26" end_rect="516, 868, 148, 26" />
+                  </lines>
+                </node>
+                <node id="60" text="глюкоза" x="360" y="904" width="77" height="26" text_b="2, 2, 73, 22" fold_btn_b="347, 911, 13, 13">
+                  <nodes>
+                    <node id="61" text="Для повышения утилизации глюкозы можно добавить 1 ЕД. инсулина на каждые 4- 5 г глюкозы." x="478" y="940" width="802" height="26" text_b="2, 2, 798, 22" />
+                  </nodes>
+                  <lines>
+                    <line target="61" begin_side="Bottom" end_side="Left" begin_rect="360, 904, 77, 26" end_rect="478, 940, 802, 26" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="58" begin_side="Bottom" end_side="Left" begin_rect="242, 796, 77, 26" end_rect="347, 832, 165, 26" />
+                <line target="60" begin_side="Bottom" end_side="Left" begin_rect="242, 796, 77, 26" end_rect="347, 904, 90, 26" />
+              </lines>
+            </node>
+            <node id="66" text="рідина" x="242" y="976" width="63" height="26" text_b="2, 2, 59, 22" fold_btn_b="229, 983, 13, 13">
+              <nodes>
+                <node id="67" text="30 – 40 мл жидкости на 1 килограмм массы тела. (4)" x="353" y="1012" width="435" height="26" text_b="2, 2, 431, 22" />
+                <node id="68" text="Количество поступаем ой в организм жидкости должно составлять от 0,2 до 0,3 мл на кДж, от 1 до 1,2 мл на 1 кКал плюс объем потерь (рвота, диарея и т.п.). (2)" x="353" y="1048" width="1336" height="26" text_b="2, 2, 1332, 22" />
+              </nodes>
+              <lines>
+                <line target="67" begin_side="Bottom" end_side="Left" begin_rect="242, 976, 63, 26" end_rect="353, 1012, 435, 26" />
+                <line target="68" begin_side="Bottom" end_side="Left" begin_rect="242, 976, 63, 26" end_rect="353, 1048, 1336, 26" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="23" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 76, 133, 26" />
+            <line target="2" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 112, 345, 26" />
+            <line target="16" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 148, 71, 26" />
+            <line target="29" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 616, 99, 26" />
+            <line target="52" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 652, 114, 26" />
+            <line target="56" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="242, 688, 117, 26" />
+            <line target="62" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 724, 130, 26" />
+            <line target="72" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="242, 760, 117, 26" />
+            <line target="57" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 796, 90, 26" />
+            <line target="66" begin_side="Bottom" end_side="Left" begin_rect="20, 20, 284, 46" end_rect="229, 976, 76, 26" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>
