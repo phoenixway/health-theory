@@ -1,0 +1,41 @@
+A {text-decoration: none;}
+A:link {color: #660000; font: bold 13px Arial, Helvetica, sans-serif; text-decoration: none; }
+A:visited {color: #006600; font: bold 13px Arial, Helvetica, sans-serif; text-decoration: none;}
+A:active {color: #999900; font: bold 13px Arial, Helvetica, sans-serif; text-decoration: none;}
+A:hover {color: #006633; font: bold 13px Arial, Helvetica, sans-serif; text-decoration: underline;}
+.tit:link,
+.tit:visited,
+.tit:active { color: #000000; font: bold 8pt Arial, Helvetica,  sant-serif; text-decoration: none; }
+.tit:hover { font: bold 8pt Arial, Helvetica, sant-serif; text-decoration: underline; }
+.topmenu:link,
+.topmenu:visited,
+.topmenu:active { color: #000000; font: 7pt Arial, Helvetica,  sant-serif; text-decoration: none; }
+.topmenu:hover { color: #9a9a9a; font: bold 7pt Arial, Helvetica,  sant-serif;text-decoration: underline; }
+.h2:link,
+.h2:visited,
+.h2:active { color: #006633; font: 16pt Arial, Helvetica, sant-serif; text-decoration: none; }
+.h2:hover { color: #006633; font: bold 16pt Arial, Helvetica, sant-serif; text-decoration: underline; }
+.text2 { font: Arial, Helvetica, sans-serif; font-size: 12pt; text-align: justify; }
+.text3 {  font: Arial, Helvetica, sans-serif; font-size: 12pt; font-style: italic; text-align: justify; }
+.textrubr {  color: #660000; font: bold 15px Arial, Helvetica, sans-serif; text-align: left; }
+.titlslov { color: #FFFFFF; font: bold 16px Arial, Helvetica,  sant-serif; }
+.titlhorse,
+.titlhorse:link,
+.titlhorse:visited,
+.titlhorse:active,
+.titlhorse:hover { color: #ffffff; font: bold 12px Arial, Helvetica,  sant-serif; text-decoration: none;  } 
+.newsdet {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; color: #FFFFFF; background-color: #000066}
+.news { color: #000000; font: 12px Courier New, Courier, mono; font-style: italic; text-align: left; }
+.tbd_text { color: #006600; font: 12px Arial, Helvetica, sans-serif; }
+.textdown { color: #000000; font: 7pt Arial, Helvetica, sant-serif; }
+P {text-indent: 25pt; text-align: justify; margin-right: 10px; margin-left: 10px;}
+.text_ger {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; margin-right: 10px; margin-left: 10px; padding-top: 7px; }
+.title { color:#ffffff; font: bold 14pt Arial, Helvetica, sans-serif; text-indent: 5pt;}
+.td { background-color:#ffffff; text-align: center; text-valign: middle; border-style: solid; border-color: #660000; border-width: 0px 1px 1px 0px;} 
+.right { text-align: right;}
+.text4 { color: #000000; font: 12px Arial, Helvetica, sans-serif; text-align: justify; text-indent: 0pt;}
+.text4u { color: #000000; font: 16px Arial, Helvetica, sans-serif; text-align: justify; text-indent: 0pt;}
+.text5 { color: #000000; font: 12px Arial, Helvetica, sans-serif; text-align: justify; text-indent: 10pt;}
+ #data { color: #000000; font: 8pt Arial, Helvetica, sans-serif; }
+.titmenu { color: #000000; font: bold 12px Arial, Helvetica, sans-serif; }
+.center { text-align: center;}

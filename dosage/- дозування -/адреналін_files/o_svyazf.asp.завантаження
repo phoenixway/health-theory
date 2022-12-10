@@ -1,0 +1,13 @@
+
+//alert("1");
+
+//alert("1")
+//document.write("<p>/akdil/0031/base/RA/000011.shtm<p>Base_ra_000011.shtm<p>19<p>0031");
+
+//document.write("<p>SELECT CONVERT(varchar(50), DATE, 120), TEXT,p FROM Admin.dbo.O_SVYAZ WHERE SLOV = '0031' AND ELEM = (select top 1 elem from admin.dbo.slovelem where slov='0031' and addr like 'Base_ra_000011.shtm') and p='Y' ORDER BY DATE")
+
+//document.write("<p>n=0")
+
+//document.write("<p>SELECT count(*) FROM Admin.dbo.O_SVYAZ WHERE SLOV = '0031' AND ELEM = (select top 1 elem from admin.dbo.slovelem where slov='0031' and addr like 'Base_ra_000011.shtm') and p='Q'")
+//document.write("<p>/akdil/0031/base/RA/000011.shtm<p>Base_ra_000011.shtm<p>19<p>0031");
+//document.write("<p>/akdil/0031/base/RA/000011.shtm<p>Base_ra_000011.shtm<p>19<p>0031");

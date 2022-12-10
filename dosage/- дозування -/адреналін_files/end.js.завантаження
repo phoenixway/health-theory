@@ -1,0 +1,8 @@
+var byes;
+if(byes!="yes") 
+{
+//alert(byes)
+document.write("<script language=javascript src=/cgi-bin/akdilend.asp></script>");
+//alert("eh")
+}
+// document.getElementById("a1").innerHTML = p;

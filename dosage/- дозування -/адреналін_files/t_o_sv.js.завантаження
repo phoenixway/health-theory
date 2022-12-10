@@ -1,0 +1,21 @@
+function get_cook(n)
+{v=""
+ st=document.cookie.indexOf(n)
+ if(st!=-1)
+ {en=document.cookie.indexOf(";",st)
+  if(en<0) en=document.cookie.length
+  v=document.cookie.substring(st+n.length,en)
+ }
+ return(v)
+}
+var akdilp;
+var eyes;
+//akdils=unescape(get_cook("AKDILS="))
+//akdilu=unescape(get_cook("AKDILU="))
+akdilp=get_cook("AKDILP=")
+//alert(akdilp);
+//if(eyes!="yes") 
+//document.write("<script language=javascript src=/cgi-bin/o_svyazf.asp?p="+unescape(get_cook("AKDILP="))+"></script>");
+document.write("<script language=javascript src=/cgi-bin/o_svyazf.asp?p="+unescape(akdilp)+"></script>");
+//alert(unescape(akdilp));
+eyes="yes"

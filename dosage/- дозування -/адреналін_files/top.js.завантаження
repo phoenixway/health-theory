@@ -1,0 +1,7 @@
+var byes;
+if(byes!="yes") 
+{
+//alert(byes)
+document.write("<script language=javascript src=/cgi-bin/akdiltop.asp></script>");
+//alert("eh")
+}
