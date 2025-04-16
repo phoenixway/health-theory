@@ -1,0 +1,3 @@
+[submodule "medical-models"]
+	path = medical-models
+	url = git@github.com:phoenixway/medical-models.git
